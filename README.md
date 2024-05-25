@@ -9,22 +9,23 @@ Shimmer
 SharedPreferences
 Lottie
 
-#Screenshots
+# Screenshots
 
 #Main Screen
-![1](https://github.com/jakhongir16/food_recipes/assets/81008777/605cbd9a-c3d8-470b-83f4-927564a2d9fa)
+![1](https://github.com/jakhongir16/food_recipes/assets/81008777/3acbc995-09cf-487f-a13c-a131051417a1)
 
-#Food Country
-![2](https://github.com/jakhongir16/food_recipes/assets/81008777/f2f8cce5-7d94-4cb5-b12c-7f6e5bb6a4b5)
+#Country Section
+![2](https://github.com/jakhongir16/food_recipes/assets/81008777/b670c8a1-705d-40de-8f20-9b29b6f04a8a)
 
-#Food Detail
-![3](https://github.com/jakhongir16/food_recipes/assets/81008777/dca65298-88ae-4dfc-9ac7-3289fd279347)
+#Detail Food
+![3](https://github.com/jakhongir16/food_recipes/assets/81008777/7bd03395-5f9e-4751-a6f6-bca66108dd54)
 
-#Favorite 
-![4](https://github.com/jakhongir16/food_recipes/assets/81008777/3b3fc89d-8659-4bd0-a576-9b68e6e3da70)
+#Favorite Section
+![4](https://github.com/jakhongir16/food_recipes/assets/81008777/1ca86bf1-6182-4c26-b7d0-125776ccd5f2)
 
-#Search
-![5](https://github.com/jakhongir16/food_recipes/assets/81008777/e50ffd01-ac0b-4942-9f71-cb5ce000d849)
+#Search Section
+![5](https://github.com/jakhongir16/food_recipes/assets/81008777/24889e93-e86e-4d1a-a377-dec77561a430)
 
-#Ingredients
-![6](https://github.com/jakhongir16/food_recipes/assets/81008777/7f00a1fe-bdbc-4dd0-83e2-62d9aaeee472)
+#Ingredients Section
+![6](https://github.com/jakhongir16/food_recipes/assets/81008777/e1a12455-d5a1-465c-bef0-eec06be4c5d8)
+
